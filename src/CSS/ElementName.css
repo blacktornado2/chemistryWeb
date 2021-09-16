@@ -3,20 +3,22 @@
     padding: 0;
 }
 
+
 .element-name {
     height: 42vh;
     width: 29vw;
     background-color: #f3e345;
-    font-size: 80px;
+    font-size: 9vh;
     /* font-weight: bold; */
 }
 
 .atomic-n {
     height: 14vh;
-    margin-left: 30px;
+    margin-left: 1.56vh;
     display: flex;
     align-items: center;
 }
+
 
 .element-atom {
     height: 14vh;
@@ -28,7 +30,7 @@
 .atomic-mass {
     height: 14vh;
     float: right;
-    margin-right: 30px;
+    margin-right: 1.562vh;
     display: flex;
     align-items: center;
 }
