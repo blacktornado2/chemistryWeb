@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Element-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 42vh;
+    width: 68vw;
+    background-color: #f3e345;
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.container2 {
+    margin-top: 4vh;
+    margin-left: 40px;
+}
+
+.ec-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.ec-value {
+    margin-left: 40px;
+    font-size: 35px;    
+}
+
+.vse-container {
+    display: flex;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.vse {
+    margin-left: 10px;
+}
+.vse-value {
+    margin-left: 50px;
+}
+
+.melting-point-container {
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.melting-point {
+    margin-left: 40px;
+}
+
+.melting-point-value {
+    margin-left: 85px;
+    border: 2px solid black;
+    padding: 5px 15px;
+}
+
+.boiling-point-container {
+    display: flex;
+    align-items: center;
+}
+
+.boiling-point {
+    margin-left: 40px;
+}
+
+.boiling-point-value {
+    margin-left: 95px;
+    border: 2px solid black;
+    padding: 7px 17px;
+}

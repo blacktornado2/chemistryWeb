@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.element {
+    height: 25vh;
+    width: 14vw;
+    background-color: #01edf9;
+    margin-top: 10vh;
+    /* margin-left: 20px; */
+}
+
+
+.element:hover {
+    transform: scale(1.25);
+}
+
+
+.atomic-number {
+    height: 7vh;
+    margin-left: 25px;
+    font-size: 5vh;
+}
+
+
+.symbol {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 8vh;
+    height: 18vh;
+}
